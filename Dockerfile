@@ -26,4 +26,7 @@ COPY --from=build /hng-task1/out .
 # Expose port and define entry point, assuming your application listens on this port
 EXPOSE 8080
 
+# Optionally set environment variables for PostgreSQL connection string
+ENV ConnectionStrings__DefaultConnection="Hostname=dpg-cps45188fa8c73914g40-a;Database=hng_task1_db;Username=hng_task1_db_user;Password=lHlqFMT8zHNZKD0AKcuzC9P9vGkaKUBc;Port=5432"
+
 ENTRYPOINT ["dotnet", "hng-task1.dll"]
