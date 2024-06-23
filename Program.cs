@@ -25,7 +25,8 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 Console.WriteLine($"Connection String: {connectionString}");
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseMySQL(connectionString));
+    // options.UseMySQL(connectionString));
+    options.UseNpgsql(connectionString));
 
 
 // Configure the forwarded headers middleware to read the correct client IP address

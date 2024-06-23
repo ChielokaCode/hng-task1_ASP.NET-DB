@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/l/Wzo6mkkzgV/PRLwxVhk4Y41GvWg+zlKOhX5Gr9J9Jwcx39f0Tk2ZxXGdRQUmhjOt3ucZWE7TLcscP6qaBGA==",
+  "dgSpecHash": "Ldn0m2jk0NwesiX3bPJqIgM7FtQ08MaK6bydutOgixCD0l634A+tyP1BZKZfPPkmM4bhqnHX/UJpcnQwq0MCZA==",
   "success": true,
   "projectFilePath": "/Users/wikiwoo/Desktop/JavaTuts/C# Projects/Project1/hng-task1/hng-task1.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,8 @@
     "/Users/wikiwoo/.nuget/packages/mysql.data/8.4.0/mysql.data.8.4.0.nupkg.sha512",
     "/Users/wikiwoo/.nuget/packages/mysql.entityframeworkcore/8.0.2/mysql.entityframeworkcore.8.0.2.nupkg.sha512",
     "/Users/wikiwoo/.nuget/packages/mysqlconnector/2.3.7/mysqlconnector.2.3.7.nupkg.sha512",
+    "/Users/wikiwoo/.nuget/packages/npgsql/8.0.3/npgsql.8.0.3.nupkg.sha512",
+    "/Users/wikiwoo/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.4/npgsql.entityframeworkcore.postgresql.8.0.4.nupkg.sha512",
     "/Users/wikiwoo/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/wikiwoo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/wikiwoo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
